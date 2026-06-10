@@ -27,6 +27,9 @@ This project analyzes a music store database using SQL to uncover customer purch
 2. Most popular genre by country
 3. Top customer by country
 
+## Attachment of Questions and Query result screanshot
+https://github.com/RakshaMaurya29/DA_SQL_Project/blob/main/Questions_scrnshot_music.docx
+
 ## Database Schema
 https://github.com/RakshaMaurya29/DA_SQL_Project/blob/main/MusicDatabaseSchema.png
 
