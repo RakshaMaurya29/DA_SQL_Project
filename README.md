@@ -7,8 +7,6 @@ I independently wrote and executed the SQL queries, analyzed the results, and do
 
 This project analyzes a music store database using SQL to uncover customer purchasing behavior, sales trends, artist performance, and genre popularity.
 
-## Database Schema
-https://github.com/RakshaMaurya29/DA_SQL_Project/blob/main/MusicDatabaseSchema.png
 
 ## Project Questions
 
@@ -28,6 +26,13 @@ https://github.com/RakshaMaurya29/DA_SQL_Project/blob/main/MusicDatabaseSchema.p
 1. Customer spending by artist
 2. Most popular genre by country
 3. Top customer by country
+
+## Database Schema
+https://github.com/RakshaMaurya29/DA_SQL_Project/blob/main/MusicDatabaseSchema.png
+
+## Project Query
+https://github.com/RakshaMaurya29/DA_SQL_Project/blob/main/Music_Store_Query.sql
+
 
 # Business Insights
 
